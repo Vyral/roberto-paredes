@@ -30,6 +30,9 @@
 <loc>http://localhost:4000/sign-up/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/subscribe/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/testimonials/</loc>
 </url>
 <url>
