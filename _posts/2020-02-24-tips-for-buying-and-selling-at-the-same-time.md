@@ -20,6 +20,8 @@ youtube_code: 2OeR3DWh4AE
 
 {% include youtube.html %}
 
+*Buying and selling at the same time can be a tricky situation, but it’s easier when you have someone on your side with experience doing so. Here’s how we help our clients in this situation.*
+
 A few years ago, I sat down with a great family who had outgrown their home. They wanted to buy another property in another part of town, but they also needed to sell their current home. **Here’s how we went about helping them.**
 
 We sat down with them and asked about what they were looking for in a home. Once we figured that out, we started getting a plan together for their sale to make sure what they netted on the sale would be enough for them to purchase their new home.
