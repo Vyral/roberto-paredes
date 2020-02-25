@@ -20,7 +20,7 @@ youtube_code: 2OeR3DWh4AE
 
 {% include youtube.html %}
 
-<center><em>Buying and selling at the same time can be a tricky situation, but it&rsquo;s easier when you have someone on your side with experience doing so. Here&rsquo;s how we help our clients in this situation.</em></center>
+<center><em>Buying and selling at the same time can be a tricky situation, but it&rsquo;s easier when you have someone on your side with </em>experience in doing<em> so. Here&rsquo;s how we help our clients in this situation.</em></center>
 
 <center>&nbsp;</center>
 
@@ -36,6 +36,6 @@ We got the home ready for sale, we put it on the market, then we went out and st
 
 One of the most important things to consider is that there are a lot of moving parts in a situation like this. That’s why it’s critical that everybody is on the same page and communicating effectively. Any wrong move will affect the whole transaction. You need to work with a seasoned agent who can make this happen.&nbsp;
 
-**All parties must agree on the same closing date so that you aren't left homeless or searching for temporary housing.** We always make sure we service our clients by negotiating a post-occupancy agreement in a situation like this. This will allow you to transition into your new home without becoming homeless.
+**All parties must agree on the same closing date so that you aren't left homeless or searching for temporary housing.** We always make sure we service our clients by negotiating a post-occupancy agreement in a situation like this. That will allow you to transition into your new home without becoming homeless.
 
 These are just a few things we do to make sure our transactions are handled as smoothly as possible. If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
