@@ -68,8 +68,10 @@ If you’re looking for a personal recommendation on your situation (buying or s
 **[Click here to sign up and receive up to date information from RP Home Group.](https://pages.kw.com/roberto-paredes/447021/bpm0f6292hv3462buvmg.html){: target="_blank"}&nbsp;**
 
 > ## **Lessons From The Last Viral Outbreak**
+>
+> **![](/uploads/time-mag-1.png){: width="1280" height="766"}**
 
-![](/uploads/time-mag.png){: width="1280" height="766"}
+&nbsp;
 
 Lessons from the last viral outbreak and how it can apply to Coronavirus in Northeast Florida today.
 
