@@ -165,7 +165,9 @@ Still, it’s time to panic, as evidenced by how the stock markets behaved last 
 
 ## **Long-Term Success Themes**
 
-![](/uploads/long-term.jpg){: width="1500" height="844"}In the last two decades the major crisis that has come to Northeast Florida include;
+**![](/uploads/long-term-1.jpg){: width="750" height="422"}**
+
+In the last two decades the major crisis that has come to Northeast Florida include;
 
 \-2008 market crash took about 18 months to bottom out and start a steady uptick in activity. &nbsp;
 
