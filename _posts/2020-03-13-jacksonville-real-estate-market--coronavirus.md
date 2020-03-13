@@ -25,7 +25,9 @@ youtube_code:
 
 &nbsp;
 
-![](/uploads/time-to-panic-2.jpg){: width="1065" height="651"}
+&nbsp;
+
+![](/uploads/time-to-panic-2-1.jpg){: width="1065" height="651"}
 
 **Quick Summary:**
 
