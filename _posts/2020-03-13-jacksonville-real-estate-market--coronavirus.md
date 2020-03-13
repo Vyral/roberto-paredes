@@ -287,14 +287,6 @@ You can do your part in preventing the spread of the disease. Call your doctor i
 
 Staying informed can help you avoid panic and take necessary action to keep you and your family safe. Here’s a list of resources where you can get more information, updates, and safety tips to help you cope with the COVID-19 situation.
 
-Coronavirus Information And Updates:
-
-* [Houston Emergency](https://houstonemergency.org/city-of-houston-health-department-airport-system-continue-to-monitor-coronavirus-reports/)
-* [Houston Health Department](http://www.houstontx.gov/health/Epidemiology/2019-nCoV.html)
-* [Comprehensive Northeast Florida Coronavirus Resources](https://www.houston.org/business-resources-coronavirus)
-* [Texas Department of State Health Services](https://www.dshs.texas.gov/coronavirus/)
-* [Houston Methodist: COVID-19 Frequently Asked Questions](https://www.houstonmethodist.org/coronavirus/)
-
 More Tips To Prevent The Spread Of The Disease:
 
 * [Tips For Employers](https://www.uschamber.com/sites/default/files/guidance_for_employers_to_plan_and_respond_to_coronavirus.pdf)
