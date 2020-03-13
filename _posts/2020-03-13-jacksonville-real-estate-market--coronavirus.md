@@ -14,11 +14,13 @@ pullquote: >-
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1584132779.png
+youtube_alternate_image: /uploads/time-to-panic-2.jpg
 youtube_code:
 ---
 
-![](/uploads/time-to-panic.png){: width="1420" height="868"}
+&nbsp;
+
+![](/uploads/time-to-panic-2.jpg){: width="1065" height="651"}
 
 **Quick Summary:**
 
