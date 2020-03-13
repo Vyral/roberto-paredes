@@ -3,7 +3,12 @@ layout: post
 title: Jacksonville Real Estate Market- Coronavirus
 date: 2020-03-13 21:30:00
 tags:
-excerpt:
+excerpt: >-
+  Quick Summary:  Here’s a useful tip about life: Coronavirus or not, there’s
+  always something people panic over. Sometimes it’s personal. Sometimes it’s
+  local. Sometimes it’s global. Northeast Florida residents can still protect
+  what is likely their single largest asset (their home) by making smart,
+  rational decisions.
 enclosure:
 pullquote: >-
   Quick Summary:  Here’s a useful tip about life: Coronavirus or not, there’s
