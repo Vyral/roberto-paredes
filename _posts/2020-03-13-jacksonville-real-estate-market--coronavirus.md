@@ -61,7 +61,7 @@ If you’re looking for a personal recommendation on your situation (buying or s
 
 **Looking to protect your home? Here’s a free and easy sign up for Jacksonville Market Guide.**
 
-![](/uploads/book-and-ipad-real-estate-market-1.png){: width="2560" height="1472"}
+![](/uploads/book-and-ipad-real-estate-market-2.png){: width="1280" height="736"}
 
 **[Click here to sign up and receive up to date information from RP Home Group.](https://pages.kw.com/roberto-paredes/447021/bpm0f6292hv3462buvmg.html){: target="_blank"}&nbsp;**
 
