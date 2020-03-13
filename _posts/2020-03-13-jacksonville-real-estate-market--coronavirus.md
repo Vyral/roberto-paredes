@@ -195,7 +195,7 @@ From our studies of over 500,00 Northeast Florida home sales, here are the major
 
 #### **Is It A Good Time To Buy A House In Northeast Florida?**
 
-**![](/uploads/home-pic.jpeg){: width="1333" height="1000"}**
+&nbsp;
 
 Real estate is hyper local – for personal recommendations on a buying strategy, please contact RP@RPHomeGroup
 
