@@ -189,9 +189,9 @@ From our studies of over 500,00 Northeast Florida home sales, here are the major
 * Large lots (the primary value is the land value);
 * Not located on a busy thoroughfare, near a highway or near a railroad;
 * A street location with some kind of premier feature (by a cul-de-sac, on a street with a tree-filled median, etc.);
-* With a home that is liveable and can be rented. Typically, new construction homes come with a higher purchase premium and “true fixer uppers” require too much investment.
+* With a home that is liveable and can be rented. Typically, new construction homes come with a higher purchase premium and “true fixer uppers” require too much investment.![](/uploads/5-key-1.jpg){: width="600" height="314"}
 
-![](/uploads/5-key.jpg){: width="1200" height="628"}
+&nbsp;
 
 #### **Is It A Good Time To Buy A House In Northeast Florida?**
 
