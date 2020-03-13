@@ -11,7 +11,7 @@ pullquote: >-
   local. Sometimes it’s global. Northeast Florida residents can still protect
   what is likely their single largest asset (their home) by making smart,
   rational decisions.
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1584132779.png
