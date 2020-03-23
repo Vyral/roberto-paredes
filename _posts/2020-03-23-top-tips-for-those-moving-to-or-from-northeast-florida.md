@@ -15,7 +15,8 @@ youtube_code: qbG8U6WOUGU
 
 {% include youtube.html %}
 
-*Here are my top tips for both sellers and buyers in Northeast Florida. *
+<center><em>Here are my top tips for both sellers and buyers in Northeast Florida. </em></center>
+&nbsp;
 
 I’ve been working in the real estate industry for 15 years, and have helped countless families coming to and fro our Northeast Florida area. I’ve come up with the Top 10 factors to consider if you’re buying or selling. Prior to entering this field, I served in the U.S. Navy; a lot of today’s tips are in response to questions I hear from servicemen and servicewomen needing to make tough decisions, but they’re applicable to everyone.&nbsp;
 
