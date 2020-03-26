@@ -16,9 +16,10 @@ youtube_code: qbG8U6WOUGU
 {% include youtube.html %}
 
 <center><em>Here are my top tips for both sellers and buyers in Northeast Florida. </em></center>
+
 &nbsp;
 
-I’ve been working in the real estate industry for 15 years, and have helped countless families coming to and fro our Northeast Florida area. I’ve come up with the Top 10 factors to consider if you’re buying or selling. Prior to entering this field, I served in the U.S. Navy; a lot of today’s tips are in response to questions I hear from servicemen and servicewomen needing to make tough decisions, but they’re applicable to everyone.&nbsp;
+I’ve been working in the real estate industry for 15 years, and have helped countless families coming to and from our Northeast Florida area. I’ve come up with the top 10 factors to consider if you’re buying or selling. Prior to entering this field, I served in the U.S. Navy; a lot of today’s tips are in response to questions I hear from servicemen and servicewomen needing to make tough decisions, but they apply to everyone.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
@@ -28,9 +29,9 @@ I’ve been working in the real estate industry for 15 years, and have helped co
 
 2:35 - Buy a property that is attractive to the masses
 
-4:05 - Sellers: Pricing is absolutely critical&nbsp;
+4:05 - Sellers: Pricing is critical&nbsp;
 
-5:00 - Check the condition of property (10 areas in particular)
+5:00 - Check the condition of the property (10 areas in particular)
 
 5:43 - Timing is important; pay attention to supply and demand&nbsp;
 
