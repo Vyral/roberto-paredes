@@ -4,7 +4,8 @@ title: Top Tips for Those Moving to or From Northeast Florida
 date: 2020-03-23 18:34:00
 tags:
 excerpt: Here are my top tips for both sellers and buyers in Northeast Florida.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Roberto+Paredes/Relocating+To+And+From+Florida.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
