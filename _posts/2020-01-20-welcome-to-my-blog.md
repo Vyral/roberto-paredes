@@ -3,7 +3,8 @@ youtube_code:
 excerpt: >-
   My monthly messages will provide you with market updates, tips, and other
   educational information having to do with our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Roberto+Paredes/Welcome+To+My+Channel.mp4
 pullquote:
 enclosure_type:
 enclosure_time:
