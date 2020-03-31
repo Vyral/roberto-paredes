@@ -9,7 +9,8 @@ excerpt: >-
   Buying and selling at the same time can be a tricky situation, but it’s easier
   when you have someone on your side with experience doing so. Here’s how we
   help our clients in this situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Roberto+Paredes/How+To+Buy+And+Sell+At+The+Same+Time.mp4
 pullquote: It’s critical that everyone is communicating and on the same page.
 enclosure_type: video/mp4
 enclosure_time:
