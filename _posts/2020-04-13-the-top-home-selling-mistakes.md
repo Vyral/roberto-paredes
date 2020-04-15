@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top Home Selling Mistakes
-date: 2020-04-14 09:00:00
+date: 2020-04-13 09:00:00
 tags:
 excerpt: >-
   Even in a seller’s market, sellers have to be smart with their strategy.
