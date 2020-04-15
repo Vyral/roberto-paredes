@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Even in a seller’s market, sellers have to be smart with their strategy.
   Here’s how they can sell quickly and for top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Roberto+Paredes/The+Top+7+Mistakes+Sellers+Make.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: 7fbP40OluqU
 
 {% include youtube.html %}
 
-<CENTER><EM>Even in a seller’s market, sellers have to be smart with their strategy. Here’s how they can sell quickly and for top dollar. </EM></CENTER>
+<center><em>Even in a seller&rsquo;s market, sellers have to be smart with their strategy. Here&rsquo;s how they can sell quickly and for top dollar. </em></center>
 
 &nbsp;
 
