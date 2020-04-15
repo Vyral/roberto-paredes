@@ -3,6 +3,7 @@ layout: post
 title: The Top Home Selling Mistakes
 date: 2020-04-13 09:00:00
 tags:
+  - Home Seller Tips
 excerpt: >-
   Even in a seller’s market, sellers have to be smart with their strategy.
   Here’s how they can sell quickly and for top dollar.
