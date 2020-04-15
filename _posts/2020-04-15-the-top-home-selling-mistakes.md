@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top Home Selling Mistakes
-date: 2020-04-15 19:20:00
+date: 2020-04-15 09:00:00
 tags:
 excerpt: >-
   Even in a seller’s market, sellers have to be smart with their strategy.
@@ -34,8 +34,6 @@ Why not reach out to other agents who have a property listed on the market? They
 
 **3\. Not staging your home to sell.** I’ve walked into a seller’s home for a showing, and it almost looked as if they didn’t really want to sell the property: The smell was funny, clothes were strewn everywhere, and, in one case, people were still lounging in their beds, urging prospective buyers to look around freely. Stage your home so that it’s welcoming. It should be well-lit, clean, and smelling great. I’ve seen people pass on homes because they don’t like the smell of it or the paint color choices.&nbsp;
 
-**4\. Not effectively negotiating.** The very first step of negotiating is gathering as much information on the incoming offer as possible. What’s the buyer’s timeline? What’s their pain? Knowing where the buyer is coming from and taking their values into account will help you strike a deal that will close and net your client the most money.&nbsp;
-
-As I mentioned, there are three other home selling mistakes. Feel free to check the full list.&nbsp;
+**4\. Not effectively negotiating.** The very first step of negotiating is gathering as much information on the incoming offer as possible. What’s the buyer’s timeline? What’s their pain? Knowing where the buyer is coming from and taking their values into account will help you strike a deal that will close and net your client the most money.
 
 If you have questions about this or any other real estate-related topic, reach out by phone or email. I’d love to hear from you.
