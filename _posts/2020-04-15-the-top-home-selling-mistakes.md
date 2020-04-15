@@ -17,7 +17,9 @@ youtube_code: 7fbP40OluqU
 
 {% include youtube.html %}
 
-*Even in a seller’s market, sellers have to be smart with their strategy. Here’s how they can sell quickly and for top dollar.&nbsp;*
+<CENTER><EM>Even in a seller’s market, sellers have to be smart with their strategy. Here’s how they can sell quickly and for top dollar. </EM></CENTER>
+
+&nbsp;
 
 Here are four of the top seven mistakes people make when selling their homes:&nbsp;
 
