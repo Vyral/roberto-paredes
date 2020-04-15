@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top Home Selling Mistakes
-date: 2020-04-15 19:20:55
+date: 2020-04-15 19:20:00
 tags:
 excerpt: >-
   Even in a seller’s market, sellers have to be smart with their strategy.
@@ -17,9 +17,7 @@ youtube_code: 7fbP40OluqU
 
 {% include youtube.html %}
 
-*Even in a seller’s market, sellers have to be smart with their strategy. Here’s how they can sell quickly and for top dollar. *
-
-&nbsp;
+*Even in a seller’s market, sellers have to be smart with their strategy. Here’s how they can sell quickly and for top dollar.&nbsp;*
 
 Here are four of the top seven mistakes people make when selling their homes:&nbsp;
 
