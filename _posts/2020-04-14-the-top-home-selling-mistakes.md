@@ -36,4 +36,4 @@ Why not reach out to other agents who have a property listed on the market? They
 
 **4\. Not effectively negotiating.** The very first step of negotiating is gathering as much information on the incoming offer as possible. What’s the buyer’s timeline? What’s their pain? Knowing where the buyer is coming from and taking their values into account will help you strike a deal that will close and net your client the most money.
 
-If you have questions about this or any other real estate-related topic, reach out by phone or email. I’d love to hear from you.
+If you have questions about this or any other real estate-related topic, reach out by phone or email. I’d love to hear from you.&nbsp;&nbsp;
