@@ -17,7 +17,8 @@ youtube_code: 8jF87Mda-ww
 
 {% include youtube.html %}
 
-*If you’re gearing up to buy a home, there are 10 common mistakes you must avoid. *
+<center><em>If you’re gearing up to buy a home, there are 10 common mistakes you must avoid.</em></center>
+&nbsp;
 
 Here are the top 10 mistakes buyers make that you need to avoid (and how you can avoid them):
 
