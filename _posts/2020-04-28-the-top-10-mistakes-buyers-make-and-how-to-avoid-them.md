@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Top 10 Mistakes Buyers Make (And How to Avoid Them)
-date: 2020-04-28 18:05:22
+date: 2020-04-28 18:05:00
 tags:
 excerpt: >-
   If you’re gearing up to buy a home, there are 10 common mistakes you must
   avoid.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Roberto+Paredes/The+Top+10+Mistakes+Buyers+Make.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,8 @@ youtube_code: 8jF87Mda-ww
 
 {% include youtube.html %}
 
-<center><em>If you’re gearing up to buy a home, there are 10 common mistakes you must avoid.</em></center>
+<center><em>If you&rsquo;re gearing up to buy a home, there are 10 common mistakes you must avoid.</em></center>
+
 &nbsp;
 
 Here are the top 10 mistakes buyers make that you need to avoid (and how you can avoid them):
