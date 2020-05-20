@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Questions to Sellers Should Ask Their Real Estate Professional
+title: How Do You Vet an Agent?
 date: 2020-05-20 17:10:00
 tags:
 excerpt: >-
