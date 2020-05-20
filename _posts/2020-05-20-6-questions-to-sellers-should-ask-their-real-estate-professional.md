@@ -18,7 +18,9 @@ youtube_code: _2V-Ko4oYE
 
 {% include youtube.html %}
 
-*I’m sharing six questions that will help you decide on a reliable agent to sell your home. *
+<center><em>I’m sharing six questions that will help you decide on a reliable agent to sell your home.</em></center>
+&nbsp;
+
 
 Want to know if the real estate professional you’re interviewing has what it takes to sell your home? Ask them these six simple questions:&nbsp;
 
