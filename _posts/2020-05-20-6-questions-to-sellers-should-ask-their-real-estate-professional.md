@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Questions to Sellers Should Ask Their Real Estate Professional
-date: 2020-05-20 17:10:33
+date: 2020-05-20 17:10:00
 tags:
 excerpt: >-
   I’m sharing six questions that will help you decide on a reliable agent to
@@ -13,14 +13,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _2V-Ko4oYE
+youtube_code: '-_2V-Ko4oYE'
 ---
 
 {% include youtube.html %}
 
-<center><em>I’m sharing six questions that will help you decide on a reliable agent to sell your home.</em></center>
-&nbsp;
+<center><em>I&rsquo;m sharing six questions that will help you decide on a reliable agent to sell your home.</em></center>
 
+&nbsp;
 
 Want to know if the real estate professional you’re interviewing has what it takes to sell your home? Ask them these six simple questions:&nbsp;
 
