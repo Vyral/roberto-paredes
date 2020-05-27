@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do You Vet an Agent?
+title: 6 Questions to Ask Before You Sell Your Home
 date: 2020-05-20 17:10:00
 tags:
 excerpt: >-
