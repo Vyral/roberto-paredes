@@ -15,7 +15,8 @@ youtube_code: 4Yjqmd_nf-U
 
 {% include youtube.html %}
 
-*Here are five things to think about before buying a new construction home.*
+<center><em>Here are five things to think about before buying a new construction home.</em></center>
+&nbsp;
 
 Those who are looking to purchase resale homes may or may not realize that, for nearly the same price, new construction could also be a viable option. However, there are five things that you need to consider before proceeding with a new construction purchase,
 
