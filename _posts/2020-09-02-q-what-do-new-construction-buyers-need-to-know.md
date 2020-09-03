@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Do New Construction Buyers Need to Know?'
-date: 2020-09-02 19:31:15
+date: 2020-09-02 19:31:00
 tags:
 excerpt: Here are five things to think about before buying a new construction home.
 enclosure:
@@ -16,9 +16,10 @@ youtube_code: 4Yjqmd_nf-U
 {% include youtube.html %}
 
 <center><em>Here are five things to think about before buying a new construction home.</em></center>
+
 &nbsp;
 
-Those who are looking to purchase resale homes may or may not realize that, for nearly the same price, new construction could also be a viable option. However, there are five things that you need to consider before proceeding with a new construction purchase,
+Those who are looking to purchase resale homes may or may not realize that, for nearly the same price, new construction could also be a viable option. However, there are five things that you need to consider before proceeding with a new construction purchase.
 
 **Feel free to follow our discussion in the video above, or else use the timestamps below to navigate the topic at your leisure:**
 
@@ -28,7 +29,7 @@ Those who are looking to purchase resale homes may or may not realize that, for 
 
 5:35—No. 3: Closing costs for new construction are typically higher than resale closing costs
 
-7:50—No. 4: What incentives do the builder provide to the buyer?
+7:50—No. 4: What incentives does the builder provide to the buyer?
 
 9:40—No. 5: Navigating the complexities of the new construction process
 
