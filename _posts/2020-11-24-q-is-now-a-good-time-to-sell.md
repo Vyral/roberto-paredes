@@ -16,8 +16,9 @@ youtube_code: g97LdSGsO1s
 
 {% include youtube.html %}
 
-*Should you sell your home now and buy a new one?*
+<center><em>Should you sell your home now and buy a new one?</em></center>
 
+&nbsp;
 Inventory is low across the board; here in northeast Florida, **we’ve experienced a 39.3% drop over last year’s inventory levels.** Zillow asked homeowners why they aren’t selling their homes, and one of the primary responses was that they wouldn’t be able to find or afford a new home. They anticipated a more favorable home sale price if they waited.
 
 Bear in mind the fact that interest rates are as low as they’ve ever been. The Federal Reserve also doesn’t seem to have a plan for raising them anytime soon, either.&nbsp;
