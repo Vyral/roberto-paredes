@@ -1,6 +1,13 @@
+---
 audit_header: false
 title: Northeast Florida Real Estate Video Blog with Roberto Paredes
-description: Our mission at RP Home Group is to be your best resource for Northeast Floridareal estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The RP Home Group, your professional Northeast Florida Real Estate Agents.
+description: >-
+  Our mission at RP Home Group is to be your best resource for Northeast
+  Floridareal estate advice. Whether you are a buyer, seller, or investor, our
+  team of professionals can answer any questions you might have about real
+  estate. If you are looking to buy or sell a home, you can get all the
+  information and the latest updates, tips, and tricks from The RP Home Group,
+  your professional Northeast Florida Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Free Newsletter
@@ -9,44 +16,48 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Roberto Paredes
   title:
   license_number:
-  about_markdown: |
-        When I became a Realtor I applied many of the habits that I acquired when I was in the military. Attention to detail, commitment to my clients, honesty, and integrity. I take pride in what I do. I know you will quickly see that when you see how I carry myself and the tools that I invest in to provide you with exceptional service. My intentions are not to secure your trust, but rather to be considered for an interview so that I may present to you my marketing strategy for selling your property or my buyer's plan to get you into your dream home.
+  about_markdown: >-
+    When I became a Realtor I applied many of the habits that I acquired when I
+    was in the military. Attention to detail, commitment to my clients, honesty,
+    and integrity. I take pride in what I do. I know you will quickly see that
+    when you see how I carry myself and the tools that I invest in to provide
+    you with exceptional service. My intentions are not to secure your trust,
+    but rather to be considered for an interview so that I may present to you my
+    marketing strategy for selling your property or my buyer's plan to get you
+    into your dream home.
   brand: RP Home Group
   brokerage: Keller Williams First Coast Realty
   market: Northeast Florida
-  address: 4465-2 US HWY 17 Fleming Island, FL 32003
+  address: '151 College Drive Unit 13 Orange Park, FL 32065'
   phone: 904-600-4376
   phone_type:
   phone2:
   phone2_type:
   email: RP@RPHomeGroup.com
-  url: http://www.rphomegroup.com
-
+  url: 'http://www.rphomegroup.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: https://roberto-c-paredes.kw.com/search
-
+  second_CTA_URL: 'https://roberto-c-paredes.kw.com/search'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Northeast Florida Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What’s Your Northeast Florida Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: /homevalue/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Northeast Florida Home?"
-    CTA_text2: "Search the entire MLS for your Northeast Florida home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://roberto-c-paredes.kw.com/search
-
+    CTA_title2: Looking for a Northeast Florida Home?
+    CTA_text2: Search the entire MLS for your Northeast Florida home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'https://roberto-c-paredes.kw.com/search'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -59,60 +70,67 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/Roberto.C.Paredes.Lopez
+  facebook_url: 'https://www.facebook.com/Roberto.C.Paredes.Lopez'
   linkedin_url:
-  youtube_url: https://www.youtube.com/channel/UCHKki2NP8J7dGbC2DgGRR2w?view_as=subscriber
+  youtube_url: 'https://www.youtube.com/channel/UCHKki2NP8J7dGbC2DgGRR2w?view_as=subscriber'
   twitter_url:
-  instagram_url: https://www.instagram.com/rphomegroup/
+  instagram_url: 'https://www.instagram.com/rphomegroup/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://podcasts.apple.com/us/podcast/northeast-florida-real-estate-podcast-roberto-paredes/id1506616785
-
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/northeast-florida-real-estate-podcast-roberto-paredes/id1506616785
 podcast:
-  title: 'Northeast Florida Real Estate Podcast with Roberto Paredes'
+  title: Northeast Florida Real Estate Podcast with Roberto Paredes
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Northeast Florida Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RP Home Group - your professional Northeast Florida Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northeast Florida, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Roberto Paredes'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Northeast
+    Florida Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from RP Home Group - your professional
+    Northeast Florida Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Northeast
+    Florida, home selling tips, home for sale, home buying, home buying process,
+    property finder, property search, property, real estate market, estate
+    agent, realestate, real estate listings, buying a house, homes for sale,
+    mls, home buyer
+  author: Roberto Paredes
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Northeast Florida Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#b21f25'
-  theme_color: '#999'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#b21f25'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
+---
