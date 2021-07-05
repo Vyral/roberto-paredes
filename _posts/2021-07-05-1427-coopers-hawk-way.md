@@ -11,7 +11,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-![](/uploads/dsc00066.jpg){: width="4240" height="2832"}
+![](/uploads/new-listing--1427-coopers-hawk-way.jpg){: width="470" height="394"}
 
 ### 1427 Coopers Hawk Way
 
@@ -27,6 +27,6 @@ The under stairs has large storage that gives you even more great storage space 
 
 The windows in this home have custom tinted screens and the windows throughout allow for natural lighting. The AC has an upgraded air purification system for cleaner air. The home was custom built and has since then had updated interior paint throughout. Two Creeks gated community offers pool amenity, splash water slide, playgrounds, neighborhood parks and walking trails, basketball & tennis courts and is zoned for top rated Clay County school district.
 
-Video tour: https://youtu.be/swlPcbCLa2U
+Video tour: [https://youtu.be/swlPcbCLa2U](https://youtu.be/swlPcbCLa2U){: target="_blank" rel="noopener"}
 
 For more information, contact our team directly at 904-600-4376 or email our team at rp@rphomegroup.com.
