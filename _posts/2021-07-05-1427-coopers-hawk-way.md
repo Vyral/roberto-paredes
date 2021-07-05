@@ -11,4 +11,3 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-[https://youtu.be/swlPcbCLa2U](https://youtu.be/swlPcbCLa2U){: target="_blank"}
