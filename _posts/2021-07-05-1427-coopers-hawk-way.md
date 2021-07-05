@@ -2,7 +2,10 @@
 layout: page
 title: 1427 Coopers Hawk Way
 date: 2021-07-05 18:02:55
-excerpt:
+excerpt: >-
+  Located in the gated community of Two Creeks at the Preserve, this 3,405
+  square foot stunning home sits on the largest lot in the neighborhood that
+  backs up to the preserve at approximately 0.33 acres. 
 enclosure:
 pullquote:
 enclosure_type:
