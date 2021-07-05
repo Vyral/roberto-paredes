@@ -14,7 +14,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: '-_2V-Ko4oYE'
 ---
-[{% include youtube.html %}](https://youtu.be/swlPcbCLa2U)
+[...](https://youtu.be/swlPcbCLa2U)
 
 <center><em>I&rsquo;m sharing six questions that will help you decide on a reliable agent to sell your home.</em></center>
 
