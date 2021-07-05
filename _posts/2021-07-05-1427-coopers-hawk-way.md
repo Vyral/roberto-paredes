@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: 1427 Coopers Hawk Way
 date: 2021-07-05 18:02:55
 excerpt:
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-listing--1427-coopers-hawk-way.jpg
