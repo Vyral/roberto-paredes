@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/new-listing--1427-coopers-hawk-way.jpg
 youtube_code:
 ---
 ![](/uploads/new-listing--1427-coopers-hawk-way.jpg){: width="470" height="394"}
